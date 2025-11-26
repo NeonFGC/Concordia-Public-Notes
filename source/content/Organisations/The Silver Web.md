@@ -1,0 +1,1 @@
+A thieving guild operating in [[Pentara]], rumours say that their webs run deep and they have infiltrated the [[City Watch]], and that they will work with even the worst sorts of groups.

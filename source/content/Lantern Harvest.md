@@ -1,0 +1,1 @@
+A festival marking the last day of the harvest, in recognition and dedication to the goddess [[The Blooming Mother - Lysara, Heart of the Harvest|Lysara]]. 
