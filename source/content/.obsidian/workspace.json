@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/1. First Contact.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. First Contact"
-            }
-          },
-          {
-            "id": "9906ac9fc72de473",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2. Dawn of the Second Day.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Dawn of the Second Day"
-            }
-          },
-          {
             "id": "b95ca4f91787853f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harvest Festival.md",
+                "file": "People/Brokk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harvest Festival"
+              "title": "Brokk"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,8 +171,10 @@
   },
   "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Session Notes/1. First Contact.md",
     "Harvest Festival.md",
+    "People/Brokk.md",
+    "Places/Pentara.md",
+    "Session Notes/1. First Contact.md",
     "Session Notes/2. Dawn of the Second Day.md",
     "Session Notes/3..md",
     "index.md",
