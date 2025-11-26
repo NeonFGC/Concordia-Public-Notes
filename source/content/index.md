@@ -1,4 +1,4 @@
 ---
-title: My GitHub Pages Notebook!
+title: Concordia
 ---
 Welcome to the world of Concordia.
