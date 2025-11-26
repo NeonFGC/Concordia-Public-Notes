@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Session Notes/1. First Contact.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "1. First Contact"
+            }
+          },
+          {
+            "id": "9906ac9fc72de473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2. Dawn of the Second Day.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Dawn of the Second Day"
+            }
+          },
+          {
+            "id": "b95ca4f91787853f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harvest Festival.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Harvest Festival"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,12 +212,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Session Notes/1. First Contact.md",
+    "Harvest Festival.md",
+    "Session Notes/2. Dawn of the Second Day.md",
+    "Session Notes/3..md",
+    "index.md",
+    "Session Notes",
     "Test Note.md",
     "Places",
     "People",
-    "index.md",
     "category-folder/index.md",
     "category-folder/Some note.md",
     "category-folder"
