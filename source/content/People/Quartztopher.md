@@ -1,3 +1,5 @@
-# Kill Count
-1. Bandit in the alley
-2. 
+Tortle Monk
+
+![[WIP TURTLE CUNT-Token (2).png]]
+
+# Kill Count - 7

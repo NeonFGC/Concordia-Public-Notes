@@ -1,0 +1,2 @@
+The lords of the sea lanes, House Drake are a family of bold sailors, shipwrights, and traders who made their fortune through risk, exploration, and naval power.
+House Drake is the richest maritime power in Concordia, rivalled only by [[House Goodbarrel]] on land. Their fleets carry silks, grain, and magical reagents across the seas and many rivers that connect the island together. 

@@ -1,0 +1,2 @@
+A large market square just north of the Honeyflow River. At its centre stands the Fountain of the Radiant Shard, installed by [[House Goodbarrel]] in recognition of the work of the great heroes.
+![[Market Square Map.jpg]]
