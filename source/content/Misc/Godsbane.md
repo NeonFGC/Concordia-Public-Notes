@@ -1,0 +1,1 @@
+A mysterious alloy, said to have been forged in an alliance of both gods and mortals.

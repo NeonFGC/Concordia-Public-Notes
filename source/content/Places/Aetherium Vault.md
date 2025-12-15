@@ -1,0 +1,1 @@
+A known location of a [[Godsbane]] relic, owned by [[House Vaeloras]].

@@ -1,0 +1,1 @@
+A trading city, to the north of [[Pentara]]

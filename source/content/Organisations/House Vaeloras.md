@@ -1,0 +1,2 @@
+Born not from divine lineage but from enlightened conviction, House Vaeloras rose during The Silent Age as a more recent house. Responsible for the creation of Universities, observatories and arcane archives.
+They are High Elves, descended from the Luminar clans of the western coast, who turned away from their worship when they realised that knowledge itself could be divine. Over the centuries, they became architects of [[Pentara]]'s intellectual renaissance, promoting the study of science and the arcane as a discipline distinct from faith.
