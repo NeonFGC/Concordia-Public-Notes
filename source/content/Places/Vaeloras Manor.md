@@ -1,0 +1,1 @@
+A well fortified arcane manor, the home of [[House Vaeloras]] in [[Pentara]]
