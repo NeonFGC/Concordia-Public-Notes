@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "0193ae218a1aa101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/7. The Fracture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. The Fracture"
+            }
+          },
+          {
             "id": "211aed3837b34e72",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,18 +226,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "544e4adc7fc56bc0",
+  "active": "0193ae218a1aa101",
   "lastOpenFiles": [
-    "Misc/Godsbane.md",
+    "People/Quartztopher.md",
+    "Session Notes/7. The Fracture.md",
+    "Artifacts, Relics and more/Reek's Resolve.md",
+    "The Gods/The Serene - Ishtar, Voice of Still Waters.md",
+    "Organisations/The Order of the Pale.md",
+    "Organisations/The Order of Harmony.md",
+    "Organisations/The Order of Chaos.md",
+    "Organisations/The Order of the Scythe.md",
+    "Organisations/The Silver Web.md",
+    "Places/Temple Heights.md",
     "Session Notes/6. The Heist.md",
+    "Misc/Godsbane.md",
     "Session Notes/5. An Unexpected Twist.md",
     "index.md",
-    "Untitled.md",
     "Artifacts, Relics and more/Moonblade.md",
     "Artifacts, Relics and more/Cloak of Billowing.md",
     "Artifacts, Relics and more/Ring of Spell Storing.md",
-    "Organisations/The Order of the Scythe.md",
-    "Artifacts, Relics and more/Reek.md",
     "Artifacts, Relics and more/Gemthane Arm.md",
     "Artifacts, Relics and more/Boots of ElvenKind.md",
     "Artifacts, Relics and more",
@@ -234,13 +255,6 @@
     "People/Cassian Drake.md",
     "Places/Docks.md",
     "Session Notes/4. The Fall of the Merry Men.md",
-    "People/Robin of Hood.md",
-    "Session Notes/2. Dawn of the Second Day.md",
-    "Places/Old Hart's Run.md",
-    "Organisations/House Goodbarrel.md",
-    "Organisations/House Vaeloras.md",
-    "Places/Aetherium Vault.md",
-    "Misc/Letter to Neressa.md",
     "Attachments/Blacksmith .jpg",
     "Attachments/Temple District 1.png",
     "Attachments/The Cloak & Coin.jpg",
