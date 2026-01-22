@@ -1,9 +1,9 @@
 ---
 tags:
   - Magical_Item
+owner: "[[Res]]"
 ---
 _Ring, rare_ _(requires attunement)_
-
   
 This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1d6 - 1 levels of stored spells chosen by the DM.  
   

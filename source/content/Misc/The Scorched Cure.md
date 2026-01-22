@@ -1,0 +1,1 @@
+A policy enacted by the [[Heroes of Concordia]] in response to the growing threat of [[The Black Harvest]]. Any village showing signs of being affected is to be burned, alongside any of its inhabitants that exhibit symptoms.

@@ -1,6 +1,7 @@
 ---
 tags:
   - Magical_Item
+owner: "[[Quartztopher]]"
 ---
 _Wondrous item, uncommon_
 

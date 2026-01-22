@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "8fc6e6774e8fb445",
         "type": "tabs",
         "children": [
           {
-            "id": "b95ca4f91787853f",
+            "id": "75568d98474813d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/House Goodbarrel.md",
+                "file": "Artifacts, Relics and more/Cloak of Billowing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "House Goodbarrel"
-            }
-          },
-          {
-            "id": "094fa49a9ac2de07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "544e4adc7fc56bc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/6. The Heist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. The Heist"
-            }
-          },
-          {
-            "id": "0193ae218a1aa101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/7. The Fracture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. The Fracture"
-            }
-          },
-          {
-            "id": "211aed3837b34e72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artifacts, Relics and more/Reek.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reek"
+              "title": "Cloak of Billowing"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,35 +169,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0193ae218a1aa101",
+  "active": "75568d98474813d6",
   "lastOpenFiles": [
-    "People/Quartztopher.md",
-    "Session Notes/7. The Fracture.md",
-    "Artifacts, Relics and more/Reek's Resolve.md",
-    "The Gods/The Serene - Ishtar, Voice of Still Waters.md",
-    "Organisations/The Order of the Pale.md",
-    "Organisations/The Order of Harmony.md",
-    "Organisations/The Order of Chaos.md",
-    "Organisations/The Order of the Scythe.md",
-    "Organisations/The Silver Web.md",
-    "Places/Temple Heights.md",
-    "Session Notes/6. The Heist.md",
-    "Misc/Godsbane.md",
-    "Session Notes/5. An Unexpected Twist.md",
-    "index.md",
-    "Artifacts, Relics and more/Moonblade.md",
-    "Artifacts, Relics and more/Cloak of Billowing.md",
-    "Artifacts, Relics and more/Ring of Spell Storing.md",
     "Artifacts, Relics and more/Gemthane Arm.md",
+    "Artifacts, Relics and more/Moonblade.md",
+    "Artifacts, Relics and more/Ring of Spell Storing.md",
+    "Artifacts, Relics and more/Reek's Resolve.md",
+    "Artifacts, Relics and more/Cloak of Billowing.md",
     "Artifacts, Relics and more/Boots of ElvenKind.md",
-    "Artifacts, Relics and more",
-    "Places/Vaeloras Manor.md",
-    "People/Torvin Hearthome.md",
-    "Places/The Board and Barrel.md",
+    "Session Notes/7.5. The Story so far.md",
+    "Session Notes/7. The Fracture.md",
+    "Misc/The Black Harvest.md",
+    "Misc/Letter to Neressa.md",
+    "Misc/Lantern Harvest.md",
+    "index.md",
+    "Organisations/House Goodbarrel.md",
+    "Concordia.md",
+    "Misc/Godsbane.md",
+    "Session Notes/1. First Contact.md",
+    "The Gods/The Serene - Ishtar, Voice of Still Waters.md",
+    "The Gods/The Blooming Mother - Lysara, Heart of the Harvest.md",
+    "Organisations/The Merry Men.md",
+    "Session Notes/2. Dawn of the Second Day.md",
     "Organisations/House Drake.md",
-    "People/Cassian Drake.md",
-    "Places/Docks.md",
-    "Session Notes/4. The Fall of the Merry Men.md",
+    "Misc/The Scorched Cure.md",
+    "Session Notes/6. The Heist.md",
+    "People/Heroes of Concordia.md",
+    "Places/Aetherium Vault.md",
+    "People/Quartztopher.md",
+    "Artifacts, Relics and more",
     "Attachments/Blacksmith .jpg",
     "Attachments/Temple District 1.png",
     "Attachments/The Cloak & Coin.jpg",
