@@ -1,8 +1,13 @@
 Race: Human
+
 Class: Paladin
+
 Subclass: Oath of Vengance
+
 Background: Acolyte
+
 HP: 32
+
 AC: 18
 # Magic Initiate (Cleric)
 
@@ -84,16 +89,25 @@ If the creature drops to 0 Hit Points before the vow ends, you can transfer the 
 
 ### Cantrip.
 [Light](http://dnd2024.wikidot.com/spell:light) - Sage
+
 [Word of Radiance](http://dnd2024.wikidot.com/spell:word-of-radiance)- Sage
 ### First Level.
 [Detect Evil and Good](http://dnd2024.wikidot.com/spell:detect-evil-and-good)
+
 [Divine Favor](http://dnd2024.wikidot.com/spell:divine-favor)
+
 [Detect Magic](http://dnd2024.wikidot.com/spell:detect-magic)
-[Shield of Faith](http://dnd2024.wikidot.com/spell:shield-of-faith) 
+
+[Shield of Faith](http://dnd2024.wikidot.com/spell:shield-of-faith)
+
 [Cure Wounds](http://dnd2024.wikidot.com/spell:cure-wounds)
+
 [Divine Smite](http://dnd2024.wikidot.com/spell:divine-smite) - Paladin Smite
+
 [Bane](http://dnd2024.wikidot.com/spell:bane) - Oath of Vengeance
+
 [Hunter's Mark](http://dnd2024.wikidot.com/spell:hunter-s-mark) - Oath of Vengeance
+
 [Healing Word](http://dnd2024.wikidot.com/spell:healing-word) - Sage
 # Magic Items
 [[Moonblade]]

@@ -1,9 +1,15 @@
 Race: Tortle
+
 Class: Monk
+
 Subclass: Warrior of the Open Hand
+
 Background: Far Traveller
+
 Origin Feat: Savage Attacker
+
 HP: 23
+
 AC: 17
 
 # Savage Attacker

@@ -1,9 +1,15 @@
 Race: Human
+
 Class: Sorcerer
+
 Subclass: Wild Magic
+
 Background: Sage
+
 Origin Feat: Magic Initiate (Wizard)
+
 HP: 16
+
 AC: 10
 
 # Magic Initiate (Wizard)
@@ -100,21 +106,33 @@ If you do cast a Sorcerer spell with a spell slot before you finish a Long Rest,
 # Spells
 ### Cantrip. 
 [Mind Sliver](http://dnd2024.wikidot.com/spell:mind-sliver)
+
 [Elementalism](http://dnd2024.wikidot.com/spell:elementalism)
+
 [Fire Bolt](http://dnd2024.wikidot.com/spell:fire-bolt)
+
 [Mage Hand](http://dnd2024.wikidot.com/spell:mage-hand)
+
 [Message](http://dnd2024.wikidot.com/spell:message)
+
 [Minor Illusion](http://dnd2024.wikidot.com/spell:minor-illusion) - Sage
+
 Missing Sorcerer/Wizard Cantrip
 ### First Level.
 [Burning Hands](http://dnd2024.wikidot.com/spell:burning-hands)
+
 [Mage Armor](http://dnd2024.wikidot.com/spell:mage-armor)
+
 [Shield](http://dnd2024.wikidot.com/spell:shield)
+
 [Chromatic Orb](http://dnd2024.wikidot.com/spell:chromatic-orb)
+
 Missing Sorcerer/Wizard Spell
 ### Second Level.
 [Maximilan's Earthen Grasp](https://dnd5e.wikidot.com/spell:maximillians-earthen-grasp)
+
 [Misty Step](http://dnd2024.wikidot.com/spell:misty-step)
+
 [Invisibility](http://dnd2024.wikidot.com/spell:invisibility)
 
 # Magic Items

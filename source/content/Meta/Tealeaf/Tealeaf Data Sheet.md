@@ -1,9 +1,15 @@
 Race: Gnome (Rock)
+
 Class: Bard
+
 Subclass: College of Spirits
+
 Background: Charlatan
+
 Origin Feat: Skilled
+
 HP: 27
+
 AC: 14
 
 # Skilled
@@ -84,21 +90,33 @@ Feat: ?
 # Spells
 ### Cantrip.
 [Guidance](http://dnd2024.wikidot.com/spell:guidance) - Guiding Whispers
+
 [Mending](http://dnd2024.wikidot.com/spell:mending) - Rock Gnome
+
 [Prestidigitation](http://dnd2024.wikidot.com/spell:prestidigitation) - Rock Gnome
+
 [Minor Illusion](http://dnd2024.wikidot.com/spell:minor-illusion)
+
 [Vicious Mockery](http://dnd2024.wikidot.com/spell:vicious-mockery)
+
 Missing Bard Cantrip
 ### First Level.
 [Cure Wounds](http://dnd2024.wikidot.com/spell:cure-wounds)
+
 [Disguise Self](http://dnd2024.wikidot.com/spell:disguise-self)
+
 [Dissonant Whispers](http://dnd2024.wikidot.com/spell:dissonant-whispers)
+
 [Tasha's Hideous Laughter](http://dnd2024.wikidot.com/spell:tasha-s-hideous-laughter)
+
 [Unseen Servant](http://dnd2024.wikidot.com/spell:unseen-servant)
 ### Second Level.
 [Cloud of Daggers](http://dnd2024.wikidot.com/spell:cloud-of-daggers)
+
 [Detect Thoughts](http://dnd2024.wikidot.com/spell:detect-thoughts)
+
 [Enhance Ability](http://dnd2024.wikidot.com/spell:enhance-ability)
+
 ~~Misty Step~~
 
 

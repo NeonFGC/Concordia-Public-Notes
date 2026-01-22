@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Bryan/Bryan Data Sheet.md",
+                "file": "Meta/Tealeaf/Tealeaf Data Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bryan Data Sheet"
+              "title": "Tealeaf Data Sheet"
             }
           }
         ],
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Bryan/Bryan Data Sheet.md",
+                "file": "Meta/Tealeaf/Tealeaf Data Sheet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bryan Data Sheet"
+              "title": "Backlinks for Tealeaf Data Sheet"
             }
           },
           {
@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Bryan/Bryan Data Sheet.md",
+                "file": "Meta/Tealeaf/Tealeaf Data Sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bryan Data Sheet"
+              "title": "Outline of Tealeaf Data Sheet"
             }
           }
         ],
@@ -257,14 +257,14 @@
   },
   "active": "c9ea4168e8f874d2",
   "lastOpenFiles": [
-    "Meta/Brokk/Brokk Data Sheet.md",
-    "Meta/Bryan/Bryan Data Sheet.md",
     "Meta/Tealeaf/Tales of the Major Arcana.md",
+    "Meta/Res/Res Data Sheet.md",
+    "Meta/Bryan/Bryan Data Sheet.md",
+    "Meta/Brokk/Brokk Data Sheet.md",
     "Meta/Tealeaf/Tealeaf Data Sheet.md",
+    "Meta/Quartztopher/Quartztopher Data Sheet.md",
     "Meta/Brokk/Brokk Actions.md",
     "Meta/Bryan/Bryan Actions.md",
-    "Meta/Res/Res Data Sheet.md",
-    "Meta/Quartztopher/Quartztopher Data Sheet.md",
     "Meta/Weapon Mastery.md",
     "[Spare.md",
     "[Light.md",
