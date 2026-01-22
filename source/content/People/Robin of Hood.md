@@ -8,4 +8,4 @@ Current whereabouts: Unknown
 
 Status: Unknown
 
-Friends: Dead at the hands of [[Brokk]], [[Bryan]], [[Quartztopher]], [[Res]] and [[Tealeaf]]
+Friends: Dead at the hands of [[People/Brokk]], [[People/Bryan]], [[Quartztopher]], [[Res]] and [[Tealeaf]]

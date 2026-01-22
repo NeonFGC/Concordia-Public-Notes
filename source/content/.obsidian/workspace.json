@@ -13,15 +13,101 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artifacts, Relics and more/Cloak of Billowing.md",
+                "file": "Meta/Brokk/Brokk Data Sheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Brokk Data Sheet"
+            }
+          },
+          {
+            "id": "6e1b49795d414c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Bryan/Bryan Data Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloak of Billowing"
+              "title": "Bryan Data Sheet"
+            }
+          },
+          {
+            "id": "082e654cd1e4c831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Bryan/Bryan Data Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bryan Data Sheet"
+            }
+          },
+          {
+            "id": "46cd1d39bde73d73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Bryan/Bryan Data Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bryan Data Sheet"
+            }
+          },
+          {
+            "id": "534fd0b22bb3146c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Bryan/Bryan Data Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bryan Data Sheet"
+            }
+          },
+          {
+            "id": "797e0e49f2d30967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Brokk/Brokk Data Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brokk Data Sheet"
+            }
+          },
+          {
+            "id": "c9ea4168e8f874d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Bryan/Bryan Data Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bryan Data Sheet"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -94,17 +180,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
-                "collapseAll": false,
+                "file": "Meta/Bryan/Bryan Data Sheet.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Bryan Data Sheet"
             }
           },
           {
@@ -142,21 +228,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Meta/Bryan/Bryan Data Sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Bryan Data Sheet"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,34 +255,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75568d98474813d6",
+  "active": "c9ea4168e8f874d2",
   "lastOpenFiles": [
+    "Meta/Brokk/Brokk Data Sheet.md",
+    "Meta/Bryan/Bryan Data Sheet.md",
+    "Meta/Tealeaf/Tales of the Major Arcana.md",
+    "Meta/Tealeaf/Tealeaf Data Sheet.md",
+    "Meta/Brokk/Brokk Actions.md",
+    "Meta/Bryan/Bryan Actions.md",
+    "Meta/Res/Res Data Sheet.md",
+    "Meta/Quartztopher/Quartztopher Data Sheet.md",
+    "Meta/Weapon Mastery.md",
+    "[Spare.md",
+    "[Light.md",
+    "Attachments/Pasted image 20260122203726.png",
+    "People/Bryan.md",
+    "Session Notes/7. The Fracture.md",
+    "People/Tealeaf.md",
+    "Session Notes/7.5. The Story so far.md",
+    "Meta/Bryan/Bryan.md",
+    "Meta/Brokk/Brokk.md",
+    "Artifacts, Relics and more/Cloak of Billowing.md",
+    "Meta/Tealeaf",
+    "Meta/Quartztopher",
+    "Meta/Res",
+    "Meta/Bryan",
+    "Meta/Brokk",
+    "Meta",
     "Artifacts, Relics and more/Gemthane Arm.md",
     "Artifacts, Relics and more/Moonblade.md",
     "Artifacts, Relics and more/Ring of Spell Storing.md",
     "Artifacts, Relics and more/Reek's Resolve.md",
-    "Artifacts, Relics and more/Cloak of Billowing.md",
     "Artifacts, Relics and more/Boots of ElvenKind.md",
-    "Session Notes/7.5. The Story so far.md",
-    "Session Notes/7. The Fracture.md",
     "Misc/The Black Harvest.md",
     "Misc/Letter to Neressa.md",
     "Misc/Lantern Harvest.md",
-    "index.md",
-    "Organisations/House Goodbarrel.md",
-    "Concordia.md",
-    "Misc/Godsbane.md",
-    "Session Notes/1. First Contact.md",
-    "The Gods/The Serene - Ishtar, Voice of Still Waters.md",
-    "The Gods/The Blooming Mother - Lysara, Heart of the Harvest.md",
-    "Organisations/The Merry Men.md",
-    "Session Notes/2. Dawn of the Second Day.md",
-    "Organisations/House Drake.md",
-    "Misc/The Scorched Cure.md",
-    "Session Notes/6. The Heist.md",
-    "People/Heroes of Concordia.md",
-    "Places/Aetherium Vault.md",
-    "People/Quartztopher.md",
     "Artifacts, Relics and more",
     "Attachments/Blacksmith .jpg",
     "Attachments/Temple District 1.png",
@@ -207,14 +300,8 @@
     "Attachments/WIP TURTLE CUNT-Token (2).png",
     "Attachments/Bryan coke can Chainmail alt-Token.png",
     "Attachments/Token (1).png",
-    "Attachments/Token 1.png",
     "Misc",
     "The Gods",
-    "Organisations",
-    "Attachments",
-    "Session Notes",
-    "Places",
-    "People",
-    "category-folder"
+    "Organisations"
   ]
 }

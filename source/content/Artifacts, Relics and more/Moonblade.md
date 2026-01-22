@@ -1,7 +1,7 @@
 ---
 tags:
   - Magical_Item
-owner: "[[Bryan]]"
+owner: "[[People/Bryan]]"
 ---
 _Weapon (longsword), legendary (requires attunement)_
 
