@@ -13,25 +13,25 @@ HP: 16
 AC: 10
 
 # Magic Initiate (Wizard)
-##### Two Cantrips.
+### Two Cantrips.
 You learn two cantrips of your choice from the [Cleric](http://dnd2024.wikidot.com/cleric:spell-list), [Druid](http://dnd2024.wikidot.com/druid:spell-list), or [Wizard](http://dnd2024.wikidot.com/wizard:spell-list) spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
-##### Level 1 Spell.
+### Level 1 Spell.
 Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
-##### Spell Change.
+### Spell Change.
 Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
-##### Repeatable.
+### Repeatable.
 You can take this feat more than once, but you must choose a different spell list each time.
 # Human
-##### Resourceful.
+### Resourceful.
 You gain Heroic Inspiration whenever you finish a Long Rest.
-##### Skillful.
+### Skillful.
 You gain proficiency in one skill of your choice.
-##### Versatile: Skilled
+### Versatile: Skilled
 You gain proficiency in any combination of three skills or tools of your choice.
 
 **Repeatable.** You can take this feat more than once.
 # Level 1
-##### Spellcasting.
+### Spellcasting.
 Drawing from your innate magic, you can cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the [Sorcerer spell list](http://dnd2024.wikidot.com/sorcerer:spell-list) later in the class’s description.
 
 **Cantrips.** You know four Sorcerer cantrips of your choice. [Light](http://dnd2024.wikidot.com/spell:light), [Prestidigitation](http://dnd2024.wikidot.com/spell:prestidigitation), [Shocking Grasp](http://dnd2024.wikidot.com/spell:shocking-grasp), and [Sorcerous Burst](http://dnd2024.wikidot.com/spell:sorcerous-burst) are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
@@ -52,7 +52,7 @@ If another Sorcerer feature gives you spells that you always have prepared, thos
 
 **Spellcasting Focus.** You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
 
-##### Innate Sorcery.
+### Innate Sorcery.
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
 
 - The spell save DC of your Sorcerer spells increases by 1.
@@ -61,7 +61,7 @@ An event in your past left an indelible mark on you, infusing you with simmering
 You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest.
 
 # Level 2
-##### Font of Magic.
+### Font of Magic.
 You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.
 
 You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can’t have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a Long Rest.
@@ -73,31 +73,31 @@ You can use your Sorcery Points to fuel the options below, along with other feat
 **Creating Spell Slots.** As a Bonus Action, you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.
 
 Any spell slot you create with this feature vanishes when you finish a Long Rest.
-##### Metamagic.
+### Metamagic.
 Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from “[Metamagic Options](http://dnd2024.wikidot.com/sorcerer:metamagic)” later in this class’s description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
 
 You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
 
 Whenever you gain a Sorcerer level, you can replace one of your [Metamagic](http://dnd2024.wikidot.com/sorcerer:metamagic) options with one you don’t know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
-##### Twinned Spell.
+### Twinned Spell.
 Cost: 1 Sorcery Point
 
 When you cast a spell, such as [Charm Person](http://dnd2024.wikidot.com/spell:charm-person), that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell’s effective level by 1.
-##### Quickened Spell.
+### Quickened Spell.
 Cost: 2 Sorcery Points
 
 When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a Bonus Action for this casting. You can’t modify a spell in this way if you’ve already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
 # Level 3
-##### Wild Magic Surge.
+### Wild Magic Surge.
 Your spellcasting can unleash surges of untamed magic. Once per turn, you can roll 1d20 immediately after you cast a Sorcerer spell with a spell slot. If you roll a 20, roll on the Wild Magic Surge table to create a magical effect. 
 
 If the magical effect is a spell, it is too wild to be affected by your Metamagic.
-##### Tides of Chaos.
+### Tides of Chaos.
 You can manipulate chaos itself to give yourself Advantage on one D20 Test before you roll the d20. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a Long Rest before you can use this feature again.
 
 If you do cast a Sorcerer spell with a spell slot before you finish a Long Rest, you automatically roll on the Wild Magic Surge table.
 # Level 4
-##### Feat: Durable
+### Feat: Durable
 **Ability Score Increase.** Increase your Constitution score by 1, to a maximum of 20.
 
 **Defy Death.** You have Advantage on Death Saving Throws.
