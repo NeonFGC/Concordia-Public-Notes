@@ -84,6 +84,8 @@ You can retain only one of these tales in mind at a time, and rolling on the Spi
 
 If the tale requires a saving throw, the DC equals your spell save DC.
 
+[[Tales of the Major Arcana]]
+
 # Level 4
 ### Feat: Fey Touched
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
