@@ -84,20 +84,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Brokk/Brokk Data Sheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brokk Data Sheet"
-            }
-          },
-          {
-            "id": "c9ea4168e8f874d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Meta/Tealeaf/Tealeaf Data Sheet.md",
                 "mode": "source",
                 "source": false
@@ -107,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -255,14 +241,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9ea4168e8f874d2",
+  "active": "797e0e49f2d30967",
   "lastOpenFiles": [
+    "Meta/Brokk/Brokk Data Sheet.md",
+    "Session Notes/7. The Fracture.md",
+    "Session Notes/7.5. The Story so far.md",
+    "Meta/Tealeaf/Tealeaf Data Sheet.md",
     "Meta/Tealeaf/Tales of the Major Arcana.md",
     "Meta/Res/Res Data Sheet.md",
     "Meta/Quartztopher/Quartztopher Data Sheet.md",
     "Meta/Bryan/Bryan Data Sheet.md",
-    "Meta/Brokk/Brokk Data Sheet.md",
-    "Meta/Tealeaf/Tealeaf Data Sheet.md",
     "Meta/Brokk/Brokk Actions.md",
     "Meta/Bryan/Bryan Actions.md",
     "Meta/Weapon Mastery.md",
@@ -270,9 +258,7 @@
     "[Light.md",
     "Attachments/Pasted image 20260122203726.png",
     "People/Bryan.md",
-    "Session Notes/7. The Fracture.md",
     "People/Tealeaf.md",
-    "Session Notes/7.5. The Story so far.md",
     "Meta/Bryan/Bryan.md",
     "Meta/Brokk/Brokk.md",
     "Artifacts, Relics and more/Cloak of Billowing.md",

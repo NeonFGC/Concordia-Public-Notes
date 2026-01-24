@@ -102,7 +102,8 @@ If the tale requires a saving throw, the DC equals your spell save DC.
 
 [Vicious Mockery](http://dnd2024.wikidot.com/spell:vicious-mockery)
 
-Missing Bard Cantrip
+[True Strike](http://dnd2024.wikidot.com/spell:true-strike)
+
 ### First Level.
 [Cure Wounds](http://dnd2024.wikidot.com/spell:cure-wounds)
 
