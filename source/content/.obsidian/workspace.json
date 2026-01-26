@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Brokk/Brokk Data Sheet.md",
+                "file": "Artifacts, Relics and more/Talking Doll.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Brokk Data Sheet"
+              "title": "Talking Doll"
             }
           },
           {
@@ -56,16 +56,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Res/Res Wild Magic Surge.md",
+                "file": "Artifacts, Relics and more/Talking Doll.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Res Wild Magic Surge"
+              "title": "Talking Doll"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Res/Res Wild Magic Surge.md",
+                "file": "Artifacts, Relics and more/Talking Doll.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Res Wild Magic Surge"
+              "title": "Outline of Talking Doll"
             }
           }
         ],
@@ -213,18 +212,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46cd1d39bde73d73",
+  "active": "75568d98474813d6",
   "lastOpenFiles": [
+    "Artifacts, Relics and more/Ring of Spell Storing.md",
+    "Artifacts, Relics and more/Talking Doll.md",
+    "Meta/Tealeaf/Tales of the Major Arcana.md",
+    "Meta/Tealeaf/Tealeaf Data Sheet.md",
+    "Meta/Brokk/Brokk Data Sheet.md",
+    "Meta/Bryan/Bryan Data Sheet.md",
+    "Session Notes/7.5. The Story so far.md",
+    "Meta/Res/Res Wild Magic Surge.md",
     "Attachments/Pasted image 20260126185750.png",
     "Attachments/Pasted image 20260126185735.png",
     "Meta/Res/Res Data Sheet.md",
-    "Meta/Res/Res Wild Magic Surge.md",
-    "Meta/Tealeaf/Tealeaf Data Sheet.md",
-    "Meta/Tealeaf/Tales of the Major Arcana.md",
-    "Meta/Bryan/Bryan Data Sheet.md",
-    "Meta/Brokk/Brokk Data Sheet.md",
     "Session Notes/7. The Fracture.md",
-    "Session Notes/7.5. The Story so far.md",
     "Meta/Quartztopher/Quartztopher Data Sheet.md",
     "Meta/Brokk/Brokk Actions.md",
     "Meta/Bryan/Bryan Actions.md",
@@ -245,7 +246,6 @@
     "Meta",
     "Artifacts, Relics and more/Gemthane Arm.md",
     "Artifacts, Relics and more/Moonblade.md",
-    "Artifacts, Relics and more/Ring of Spell Storing.md",
     "Artifacts, Relics and more/Reek's Resolve.md",
     "Artifacts, Relics and more/Boots of ElvenKind.md",
     "Misc/The Black Harvest.md",
@@ -257,7 +257,6 @@
     "Attachments/Token Tealeaf updated.png",
     "Attachments/Token Brok.png",
     "Attachments/WIP TURTLE CUNT-Token (2).png",
-    "Attachments/Bryan coke can Chainmail alt-Token.png",
     "Misc",
     "The Gods",
     "Organisations"

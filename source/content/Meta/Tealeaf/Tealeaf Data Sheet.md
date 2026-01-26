@@ -128,3 +128,5 @@ If the tale requires a saving throw, the DC equals your spell save DC.
 
 # Magic Items
 [[Cloak of Billowing]]
+
+[[Talking Doll]]
