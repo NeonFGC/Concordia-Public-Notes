@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Tealeaf/Tealeaf Data Sheet.md",
+                "file": "Meta/Res/Res Wild Magic Surge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tealeaf Data Sheet"
+              "title": "Res Wild Magic Surge"
             }
           }
         ],
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Tealeaf/Tealeaf Data Sheet.md",
+                "file": "Meta/Res/Res Wild Magic Surge.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tealeaf Data Sheet"
+              "title": "Outline of Res Wild Magic Surge"
             }
           }
         ],
@@ -215,13 +215,16 @@
   },
   "active": "46cd1d39bde73d73",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260126185750.png",
+    "Attachments/Pasted image 20260126185735.png",
+    "Meta/Res/Res Data Sheet.md",
+    "Meta/Res/Res Wild Magic Surge.md",
+    "Meta/Tealeaf/Tealeaf Data Sheet.md",
     "Meta/Tealeaf/Tales of the Major Arcana.md",
     "Meta/Bryan/Bryan Data Sheet.md",
-    "Meta/Tealeaf/Tealeaf Data Sheet.md",
     "Meta/Brokk/Brokk Data Sheet.md",
     "Session Notes/7. The Fracture.md",
     "Session Notes/7.5. The Story so far.md",
-    "Meta/Res/Res Data Sheet.md",
     "Meta/Quartztopher/Quartztopher Data Sheet.md",
     "Meta/Brokk/Brokk Actions.md",
     "Meta/Bryan/Bryan Actions.md",
@@ -246,8 +249,6 @@
     "Artifacts, Relics and more/Reek's Resolve.md",
     "Artifacts, Relics and more/Boots of ElvenKind.md",
     "Misc/The Black Harvest.md",
-    "Misc/Letter to Neressa.md",
-    "Misc/Lantern Harvest.md",
     "Artifacts, Relics and more",
     "Attachments/Blacksmith .jpg",
     "Attachments/Temple District 1.png",
@@ -257,7 +258,6 @@
     "Attachments/Token Brok.png",
     "Attachments/WIP TURTLE CUNT-Token (2).png",
     "Attachments/Bryan coke can Chainmail alt-Token.png",
-    "Attachments/Token (1).png",
     "Misc",
     "The Gods",
     "Organisations"

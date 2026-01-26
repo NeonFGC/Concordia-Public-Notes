@@ -117,7 +117,7 @@ If you do cast a Sorcerer spell with a spell slot before you finish a Long Rest,
 
 [Minor Illusion](http://dnd2024.wikidot.com/spell:minor-illusion) - Sage
 
-Missing Sorcerer/Wizard Cantrip
+[True Strike](http://dnd2024.wikidot.com/spell:true-strike)
 ### First Level.
 [Burning Hands](http://dnd2024.wikidot.com/spell:burning-hands)
 
@@ -127,7 +127,8 @@ Missing Sorcerer/Wizard Cantrip
 
 [Chromatic Orb](http://dnd2024.wikidot.com/spell:chromatic-orb)
 
-Missing Sorcerer/Wizard Spell
+[Find Familiar](http://dnd2024.wikidot.com/spell:find-familiar)
+
 ### Second Level.
 [Maximilan's Earthen Grasp](https://dnd5e.wikidot.com/spell:maximillians-earthen-grasp)
 
