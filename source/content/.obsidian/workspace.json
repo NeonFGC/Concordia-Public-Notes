@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artifacts, Relics and more/Talking Doll.md",
+                "file": "Session Notes/8. A New Start.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Talking Doll"
+              "title": "8. A New Start"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artifacts, Relics and more/Talking Doll.md",
+                "file": "Session Notes/8. A New Start.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Talking Doll"
+              "title": "Outline of 8. A New Start"
             }
           }
         ],
@@ -214,18 +214,19 @@
   },
   "active": "75568d98474813d6",
   "lastOpenFiles": [
-    "Artifacts, Relics and more/Ring of Spell Storing.md",
+    "Session Notes/7.5. The Story so far.md",
+    "Session Notes/7. The Fracture.md",
+    "Session Notes/8. A New Start.md",
     "Artifacts, Relics and more/Talking Doll.md",
+    "Artifacts, Relics and more/Ring of Spell Storing.md",
     "Meta/Tealeaf/Tales of the Major Arcana.md",
     "Meta/Tealeaf/Tealeaf Data Sheet.md",
     "Meta/Brokk/Brokk Data Sheet.md",
     "Meta/Bryan/Bryan Data Sheet.md",
-    "Session Notes/7.5. The Story so far.md",
     "Meta/Res/Res Wild Magic Surge.md",
     "Attachments/Pasted image 20260126185750.png",
     "Attachments/Pasted image 20260126185735.png",
     "Meta/Res/Res Data Sheet.md",
-    "Session Notes/7. The Fracture.md",
     "Meta/Quartztopher/Quartztopher Data Sheet.md",
     "Meta/Brokk/Brokk Actions.md",
     "Meta/Bryan/Bryan Actions.md",
@@ -248,7 +249,6 @@
     "Artifacts, Relics and more/Moonblade.md",
     "Artifacts, Relics and more/Reek's Resolve.md",
     "Artifacts, Relics and more/Boots of ElvenKind.md",
-    "Misc/The Black Harvest.md",
     "Artifacts, Relics and more",
     "Attachments/Blacksmith .jpg",
     "Attachments/Temple District 1.png",
