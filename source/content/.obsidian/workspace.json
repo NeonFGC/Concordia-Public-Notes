@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/8. A New Start.md",
+                "file": "Session Notes/9. The Fork in the Road.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "8. A New Start"
+              "title": "9. The Fork in the Road"
             }
           },
           {
@@ -185,17 +185,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/8. A New Start.md",
+                "file": "Session Notes/9. The Fork in the Road.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 8. A New Start"
+              "title": "Outline of 9. The Fork in the Road"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -214,9 +214,17 @@
   },
   "active": "75568d98474813d6",
   "lastOpenFiles": [
+    "People/Faelar.md",
+    "Session Notes/9. The Fork in the Road.md",
+    "Orimis.md",
+    "Places/Stonebrook.md",
+    "Attachments/Stonebrook.jpg",
+    "The Gods/The Serene - Ishtar, Voice of Still Waters.md",
+    "The Gods/The Blooming Mother - Lysara, Heart of the Harvest.md",
+    "The Gods/The Verdant Warden - Thalen, the Rooted King.md",
+    "Session Notes/8. A New Start.md",
     "Session Notes/7.5. The Story so far.md",
     "Session Notes/7. The Fracture.md",
-    "Session Notes/8. A New Start.md",
     "Artifacts, Relics and more/Talking Doll.md",
     "Artifacts, Relics and more/Ring of Spell Storing.md",
     "Meta/Tealeaf/Tales of the Major Arcana.md",
@@ -236,19 +244,12 @@
     "Attachments/Pasted image 20260122203726.png",
     "People/Bryan.md",
     "People/Tealeaf.md",
-    "Meta/Bryan/Bryan.md",
-    "Meta/Brokk/Brokk.md",
-    "Artifacts, Relics and more/Cloak of Billowing.md",
     "Meta/Tealeaf",
     "Meta/Quartztopher",
     "Meta/Res",
     "Meta/Bryan",
     "Meta/Brokk",
     "Meta",
-    "Artifacts, Relics and more/Gemthane Arm.md",
-    "Artifacts, Relics and more/Moonblade.md",
-    "Artifacts, Relics and more/Reek's Resolve.md",
-    "Artifacts, Relics and more/Boots of ElvenKind.md",
     "Artifacts, Relics and more",
     "Attachments/Blacksmith .jpg",
     "Attachments/Temple District 1.png",
@@ -256,7 +257,6 @@
     "Attachments/The Board & Barrel Map.jpg",
     "Attachments/Token Tealeaf updated.png",
     "Attachments/Token Brok.png",
-    "Attachments/WIP TURTLE CUNT-Token (2).png",
     "Misc",
     "The Gods",
     "Organisations"
