@@ -79,6 +79,11 @@ Whenever you hit a creature with an attack granted by your Flurry of Blows, you 
 **Pole Strike.** Immediately after you take the Attack action and attack with a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can use a Bonus Action to make a melee attack with the opposite end of the weapon. The weapon deals Bludgeoning damage, and the weapon’s damage die for this attack is a d4.
 
 **Reactive Strike.** While you're holding a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can take a Reaction to make one melee attack against a creature that enters the reach you have with that weapon.
+# Level 5
+### Extra Attack
+You can attack twice instead of once whenever you take the Attack action on your turn.
+### Stunning Strike
+Once per turn when you hit a creature with a Monk weapon or an Unarmed Strike, you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the Stunned condition until the start of your next turn. On a successful save, the target’s Speed is halved until the start of your next turn, and the next attack roll made against the target before then has Advantage.
 
 # Magic Items
 [[Reek's Resolve]]

@@ -110,4 +110,3 @@ If the creature drops to 0 Hit Points before the vow ends, you can transfer the 
 
 [Healing Word](http://dnd2024.wikidot.com/spell:healing-word) - Sage
 # Magic Items
-[[Moonblade]]
