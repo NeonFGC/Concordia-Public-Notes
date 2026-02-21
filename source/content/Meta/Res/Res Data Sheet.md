@@ -103,6 +103,9 @@ If you do cast a Sorcerer spell with a spell slot before you finish a Long Rest,
 **Defy Death.** You have Advantage on Death Saving Throws.
 
 **Speedy Recovery.** As a Bonus Action, you can expend one of your Hit Point Dice, roll the die, and regain a number of Hit Points equal to the roll.
+# Level 5
+### Sorcerous Restoration
+When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can’t do so again until you finish a Long Rest.
 # Spells
 ### Cantrip. 
 [Mind Sliver](http://dnd2024.wikidot.com/spell:mind-sliver)
@@ -117,17 +120,17 @@ If you do cast a Sorcerer spell with a spell slot before you finish a Long Rest,
 
 [Minor Illusion](http://dnd2024.wikidot.com/spell:minor-illusion) - Sage
 
-[True Strike](http://dnd2024.wikidot.com/spell:true-strike)
+[True Strike](http://dnd2024.wikidot.com/spell:true-strike) - Sage
 ### First Level.
-[Burning Hands](http://dnd2024.wikidot.com/spell:burning-hands)
+[Burning Hands](http://dnd2024.wikidot.com/spell:burning-hands) 
 
 [Mage Armor](http://dnd2024.wikidot.com/spell:mage-armor)
 
 [Shield](http://dnd2024.wikidot.com/spell:shield)
 
-[Chromatic Orb](http://dnd2024.wikidot.com/spell:chromatic-orb)
+[Chromatic Orb](http://dnd2024.wikidot.com/spell:chromatic-orb) 
 
-[Find Familiar](http://dnd2024.wikidot.com/spell:find-familiar)
+[Find Familiar](http://dnd2024.wikidot.com/spell:find-familiar) - Sage
 
 ### Second Level.
 [Maximilan's Earthen Grasp](https://dnd5e.wikidot.com/spell:maximillians-earthen-grasp)
@@ -135,6 +138,10 @@ If you do cast a Sorcerer spell with a spell slot before you finish a Long Rest,
 [Misty Step](http://dnd2024.wikidot.com/spell:misty-step)
 
 [Invisibility](http://dnd2024.wikidot.com/spell:invisibility)
+### Third Level.
+Missing Sorcerer Spell
+
+Missing Sorcerer Spell
 
 # Magic Items
 [[Ring of Spell Storing]]

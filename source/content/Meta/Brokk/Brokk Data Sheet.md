@@ -48,7 +48,6 @@ Each time the Rage is extended, it lasts until the end of your next turn. You ca
 While you aren't wearing any armor, your base Armor Class equals 10 plus your Dexterity and Constitution modifiers. You can use a Shield and still gain this benefit.
 ### Weapon Mastery.
 Your training with weapons allows you to use the [mastery properties](http://dnd2024.wikidot.com/equipment:weapon#mastery-properties) of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
-
 When you reach certain Barbarian levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
 # Level 2
 ### Danger Sense.
@@ -71,6 +70,13 @@ Starting when you choose this path at 3rd level, spectral warriors appear when y
 **Guardian.** Immediately after a creature within 5 feet of you takes the Disengage action or hits a target other than you with an attack, you can make an Opportunity Attack against that creature.
 
 **Halt.** When you hit a creature with an Opportunity Attack, the creature’s Speed becomes 0 for the rest of the current turn.
+# Level 5
+### Large Form
+Starting at character level 5, you can change your size to Large as a Bonus Action if you're in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can't use it again until you finish a Long Rest.
+### Extra Attack
+You can attack twice instead of once whenever you take the Attack action on your turn.
+### Fast Movement
+Your speed increases by 10 feet while you aren't wearing Heavy armor.
 
 # Magic Items
 [[Gemthane Arm]]

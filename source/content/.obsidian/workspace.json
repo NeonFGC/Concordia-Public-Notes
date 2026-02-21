@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Res/Res Data Sheet.md",
+                "file": "Meta/Tealeaf/Tealeaf Data Sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Res Data Sheet"
+              "title": "Tealeaf Data Sheet"
             }
           },
           {
@@ -214,8 +214,11 @@
   },
   "active": "75568d98474813d6",
   "lastOpenFiles": [
-    "Meta/Bryan/Bryan Data Sheet.md",
+    "Meta/Tealeaf/Tales of the Major Arcana.md",
+    "Meta/Res/Res Data Sheet.md",
+    "Meta/Res/Res Wild Magic Surge.md",
     "Meta/Quartztopher/Quartztopher Data Sheet.md",
+    "Meta/Bryan/Bryan Data Sheet.md",
     "Meta/Brokk/Brokk Data Sheet.md",
     "Session Notes/9. The Fork in the Road.md",
     "People/Faelar.md",
@@ -230,12 +233,9 @@
     "Session Notes/7. The Fracture.md",
     "Artifacts, Relics and more/Talking Doll.md",
     "Artifacts, Relics and more/Ring of Spell Storing.md",
-    "Meta/Tealeaf/Tales of the Major Arcana.md",
     "Meta/Tealeaf/Tealeaf Data Sheet.md",
-    "Meta/Res/Res Wild Magic Surge.md",
     "Attachments/Pasted image 20260126185750.png",
     "Attachments/Pasted image 20260126185735.png",
-    "Meta/Res/Res Data Sheet.md",
     "Meta/Brokk/Brokk Actions.md",
     "Meta/Bryan/Bryan Actions.md",
     "Meta/Weapon Mastery.md",

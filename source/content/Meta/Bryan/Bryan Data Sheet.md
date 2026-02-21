@@ -84,7 +84,14 @@ If the creature drops to 0 Hit Points before the vow ends, you can transfer the 
 **Ability Score Increase.** Increase your Constitution or Strength score by 1, to a maximum of 20.
 
 **Damage Reduction.** When you're hit by an attack while you're wearing Heavy armor, any Bludgeoning, Piercing, and Slashing damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
+# Level 5
+### Extra Attack
+You can attack twice instead of once whenever you take the Attack action on your turn.
+### Faithful Steed
+You can call on the aid of an otherworldly steed.  
+You always have the [Find Steed](http://dnd2024.wikidot.com/spell:find-steed) spell prepared.
 
+You can also cast the spell once without expending a spell slot, and you regain your ability to do so when you finish a Long Rest.
 # Spells
 
 ### Cantrip.
@@ -102,6 +109,8 @@ If the creature drops to 0 Hit Points before the vow ends, you can transfer the 
 
 [Cure Wounds](http://dnd2024.wikidot.com/spell:cure-wounds)
 
+Missing Paladin Spell
+
 [Divine Smite](http://dnd2024.wikidot.com/spell:divine-smite) - Paladin Smite
 
 [Bane](http://dnd2024.wikidot.com/spell:bane) - Oath of Vengeance
@@ -109,4 +118,10 @@ If the creature drops to 0 Hit Points before the vow ends, you can transfer the 
 [Hunter's Mark](http://dnd2024.wikidot.com/spell:hunter-s-mark) - Oath of Vengeance
 
 [Healing Word](http://dnd2024.wikidot.com/spell:healing-word) - Sage
+### Second Level.
+Missing Paladin Spell
+
+Missing Paladin Spell
+
+ [Find Steed](http://dnd2024.wikidot.com/spell:find-steed) - Faithful Steed
 # Magic Items
