@@ -108,7 +108,7 @@ If you do cast a Sorcerer spell with a spell slot before you finish a Long Rest,
 When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can’t do so again until you finish a Long Rest.
 # Spells
 ### Cantrip. 
-[Mind Sliver](http://dnd2024.wikidot.com/spell:mind-sliver)
+[Gust](https://dnd5e.wikidot.com/spell:gust)
 
 [Elementalism](http://dnd2024.wikidot.com/spell:elementalism)
 
@@ -139,10 +139,9 @@ When you finish a Short Rest, you can regain expended Sorcery Points, but no mor
 
 [Invisibility](http://dnd2024.wikidot.com/spell:invisibility)
 ### Third Level.
-Missing Sorcerer Spell
+[Fireball](http://dnd2024.wikidot.com/spell:fireball)
 
-Missing Sorcerer Spell
-
+[Melf's Minute Meteors](https://dnd5e.wikidot.com/spell:melfs-minute-meteors)
 # Magic Items
 [[Ring of Spell Storing]]
 [[Moonblade]]

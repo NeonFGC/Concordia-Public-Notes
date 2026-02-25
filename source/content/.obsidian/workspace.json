@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Tealeaf/Tealeaf Data Sheet.md",
+                "file": "Meta/Res/Res Data Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tealeaf Data Sheet"
+              "title": "Res Data Sheet"
             }
           },
           {
@@ -229,14 +229,14 @@
   },
   "active": "22c739c3259df428",
   "lastOpenFiles": [
+    "Meta/Res/Res Wild Magic Surge.md",
+    "Meta/Tealeaf/Tealeaf Data Sheet.md",
     "Session Notes/10. Combat!.md",
     "Orimis Vaeloras.md",
     "Session Notes/8. A New Start.md",
     "Session Notes/9. The Fork in the Road.md",
-    "Meta/Tealeaf/Tealeaf Data Sheet.md",
     "Meta/Tealeaf/Tales of the Major Arcana.md",
     "Meta/Res/Res Data Sheet.md",
-    "Meta/Res/Res Wild Magic Surge.md",
     "Meta/Quartztopher/Quartztopher Data Sheet.md",
     "Meta/Bryan/Bryan Data Sheet.md",
     "Meta/Brokk/Brokk Data Sheet.md",
