@@ -128,7 +128,7 @@ In addition, you can expend a spell slot (no action required) to regain one expe
 
 [Enhance Ability](http://dnd2024.wikidot.com/spell:enhance-ability)
 
-[Misty Step]([Misty Step - D&D 5e (2024)](http://dnd2024.wikidot.com/spell:misty-step)) - Fey Touched
+[Misty Step]((http://dnd2024.wikidot.com/spell:misty-step)- Fey Touched
 ### Third Level.
 [Clairvoyance](http://dnd2024.wikidot.com/spell:clairvoyance)
 
