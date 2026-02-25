@@ -130,10 +130,9 @@ In addition, you can expend a spell slot (no action required) to regain one expe
 
 [Misty Step]([Misty Step - D&D 5e (2024)](http://dnd2024.wikidot.com/spell:misty-step)) - Fey Touched
 ### Third Level.
-Missing Bard Spell
+[Clairvoyance](http://dnd2024.wikidot.com/spell:clairvoyance)
 
-Missing Bard Spell
-
+[Slow](http://dnd2024.wikidot.com/spell:slow)
 
 # Magic Items
 [[Cloak of Billowing]]

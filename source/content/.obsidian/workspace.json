@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/10. Combat!.md",
+                "file": "Meta/Tealeaf/Tealeaf Data Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Combat!"
+              "title": "Tealeaf Data Sheet"
             }
           },
           {
@@ -229,8 +229,8 @@
   },
   "active": "22c739c3259df428",
   "lastOpenFiles": [
-    "Orimis Vaeloras.md",
     "Session Notes/10. Combat!.md",
+    "Orimis Vaeloras.md",
     "Session Notes/8. A New Start.md",
     "Session Notes/9. The Fork in the Road.md",
     "Meta/Tealeaf/Tealeaf Data Sheet.md",
