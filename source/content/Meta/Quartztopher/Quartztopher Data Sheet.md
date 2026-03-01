@@ -8,7 +8,7 @@ Background: Far Traveller
 
 Origin Feat: Savage Attacker
 
-HP: 23
+HP: 28
 
 AC: 17
 

@@ -6,7 +6,7 @@ Subclass: Oath of Vengance
 
 Background: Acolyte
 
-HP: 32
+HP: 39
 
 AC: 18
 # Magic Initiate (Cleric)
@@ -109,7 +109,7 @@ You can also cast the spell once without expending a spell slot, and you regain 
 
 [Cure Wounds](http://dnd2024.wikidot.com/spell:cure-wounds)
 
-Missing Paladin Spell
+[Command](http://dnd2024.wikidot.com/spell:command)
 
 [Divine Smite](http://dnd2024.wikidot.com/spell:divine-smite) - Paladin Smite
 
@@ -119,9 +119,9 @@ Missing Paladin Spell
 
 [Healing Word](http://dnd2024.wikidot.com/spell:healing-word) - Sage
 ### Second Level.
-Missing Paladin Spell
+[Magic Weapon](http://dnd2024.wikidot.com/spell:magic-weapon)
 
-Missing Paladin Spell
+[Lesser Restoration](http://dnd2024.wikidot.com/spell:lesser-restoration)
 
  [Find Steed](http://dnd2024.wikidot.com/spell:find-steed) - Faithful Steed
 # Magic Items

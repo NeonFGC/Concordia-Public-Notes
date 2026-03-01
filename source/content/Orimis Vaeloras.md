@@ -1,5 +1,0 @@
----
-tags:
-  - NPC
----
-A druid

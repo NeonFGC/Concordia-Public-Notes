@@ -6,9 +6,7 @@ Subclass: Ancestral Guardian
 
 Background: Outlander
 
-Origin Feat:
-
-HP: 47
+HP: 58
 
 AC: 14
 # Tough

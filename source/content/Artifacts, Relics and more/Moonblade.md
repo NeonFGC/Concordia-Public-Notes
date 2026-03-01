@@ -1,7 +1,7 @@
 ---
 tags:
   - Magical_Item
-owner: "[[People/Bryan]]"
+owner: "[[Quartztopher]]"
 ---
 _Weapon (longsword), legendary (requires attunement)_
 

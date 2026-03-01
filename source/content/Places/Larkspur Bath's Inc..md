@@ -1,0 +1,1 @@
+An ancient hot spring bathhouse, recently purchased by [[Cai]]

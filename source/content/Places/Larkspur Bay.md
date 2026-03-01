@@ -1,0 +1,1 @@
+![[Larkspur Bay.jpg]]

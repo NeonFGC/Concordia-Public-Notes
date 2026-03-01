@@ -8,7 +8,7 @@ Background: Sage
 
 Origin Feat: Magic Initiate (Wizard)
 
-HP: 16
+HP: 28
 
 AC: 10
 

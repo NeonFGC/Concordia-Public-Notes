@@ -8,7 +8,7 @@ Background: Charlatan
 
 Origin Feat: Skilled
 
-HP: 27
+HP: 33
 
 AC: 14
 
