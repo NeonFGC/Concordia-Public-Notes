@@ -1,7 +1,7 @@
 ---
 tags:
   - Magical_Item
-owner: "[[People/Brokk]]"
+owner: "[[Brokk]]"
 ---
 _Ring, Very Rare_
 A signet ring found in the tomb of Korran

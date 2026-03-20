@@ -1,0 +1,1 @@
+The home of [[The Order of the Sun]], and the ancestral home of [[House Solarith]]

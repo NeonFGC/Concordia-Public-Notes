@@ -1,7 +1,7 @@
 ---
 tags:
   - Magical_Item
-owner: "[[People/Brokk]]"
+owner: "[[Brokk]]"
 ---
 _Weapon (Greatsword), Uncommon (+1)_
 You have a bonus to attack rolls and damage rolls made with this magic weapon. The bonus is determined by the weapon’s rarity.

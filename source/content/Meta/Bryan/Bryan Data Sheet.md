@@ -6,6 +6,8 @@ Subclass: Oath of Vengance
 
 Background: Acolyte
 
+Origin Feat: Magic Initiate (Cleric)
+
 HP: 39
 
 AC: 18

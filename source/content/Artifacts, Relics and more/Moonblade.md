@@ -5,4 +5,4 @@ owner: "[[Quartztopher]]"
 ---
 _Weapon (longsword), legendary (requires attunement)_
 
-This weapon appears to be sentient.
+This weapon appears to be sentient. The ancestral weapon of [[House Vaeloras]].

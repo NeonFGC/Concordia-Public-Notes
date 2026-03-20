@@ -1,0 +1,1 @@
+An ancient spell cast during the founding of [[index|Concordia]] by the gods, in order to wipe the memory of [[Vel'Kareth]] from the minds of mortals, as knowledge of it drove the inhabitants mad, and gave him power.

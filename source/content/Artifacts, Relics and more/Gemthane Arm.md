@@ -1,7 +1,7 @@
 ---
 tags:
   - Magical_Item
-owner: "[[People/Brokk]]"
+owner: "[[Brokk]]"
 ---
 _Wondrous item, common_
 
