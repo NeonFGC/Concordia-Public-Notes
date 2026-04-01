@@ -1,0 +1,1 @@
+A large coastal city to the south of [[index|Concordia]], it is home to a large population of Orcs.
