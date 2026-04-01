@@ -3,6 +3,6 @@ tags:
   - Magical_Item
 owner: "[[Tealeaf]]"
 ---
-_Wondrous item, common_
+_Wondrous item, Common_
 
 While wearing this cloak, you can use a bonus action to make it billow dramatically.

@@ -3,6 +3,6 @@ tags:
   - Magical_Item
 owner: "[[Quartztopher]]"
 ---
-_Wondrous item, uncommon_
+_Wondrous item, Uncommon_
 
 While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently.

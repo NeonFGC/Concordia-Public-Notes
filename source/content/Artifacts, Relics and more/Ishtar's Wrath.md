@@ -3,7 +3,7 @@ tags:
   - Magical_Item
 owner: "[[Bryan]]"
 ---
-_Weapon (Unique), legendary (requires attunement)_
+_Weapon (Unique), Legendary (Requires Attunement)_
 An ancient relic said to have been forged before the creation of [[index|Concordia]] to embody the three aspects of divine justice: Judgment, Reckoning and Mercy. Each of these forms empower Divine Smite with additional effects.
 As a bonus action, you can cause the weapon to transform into one of its three forms.
 You can change its form at the start of your turn without using an action.
