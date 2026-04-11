@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Tealeaf/Tales of the Major Arcana.md",
+                "file": "Session Notes/14. A New Fighter Has Appeared!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tales of the Major Arcana"
+              "title": "14. A New Fighter Has Appeared!"
+            }
+          },
+          {
+            "id": "305d8ec2efb13843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/15. A Cave of Horrors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15. A Cave of Horrors"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Tealeaf/Tales of the Major Arcana.md",
+                "file": "Session Notes/15. A Cave of Horrors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tales of the Major Arcana"
+              "title": "Outline of 15. A Cave of Horrors"
             }
           }
         ],
@@ -170,15 +185,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2a6777ba5ffffcc3",
+  "active": "305d8ec2efb13843",
   "lastOpenFiles": [
+    "People/Aethran Voss.md",
+    "People/Caelthir Vaeloras.md",
+    "People/Lysa Voss.md",
+    "Organisations/House Vaeloras.md",
+    "Session Notes/15. A Cave of Horrors.md",
+    "Misc/Aethran's Notes.md",
+    "Misc/Letter to Aethran.md",
+    "Session Notes/14. A New Fighter Has Appeared!.md",
+    "Meta/Tealeaf/Tales of the Major Arcana.md",
     "Session Notes/8. A New Start.md",
     "Places/Vaeloras Manor.md",
     "Artifacts, Relics and more/Unknown Rune.md",
     "Places/Helgrind.md",
     "Places/Aetherium Vault.md",
     "Session Notes/6. The Heist.md",
-    "Session Notes/14. A New Fighter Has Appeared!.md",
     "Meta/Res/Res Data Sheet.md",
     "Meta/Res/Res Wild Magic Surge.md",
     "Artifacts, Relics and more/Wraps of Unarmed Power.md",
@@ -190,14 +213,6 @@
     "Artifacts, Relics and more/Ring of Spell Storing.md",
     "Artifacts, Relics and more/Retractable Shield.md",
     "Artifacts, Relics and more/Reek's Resolve.md",
-    "Artifacts, Relics and more/Potion of Animal Friendship.md",
-    "Artifacts, Relics and more/Moonblade.md",
-    "Artifacts, Relics and more/Korran's Hammer.md",
-    "Artifacts, Relics and more/Ishtar's Wrath.md",
-    "Artifacts, Relics and more/Gladiator Net.md",
-    "Artifacts, Relics and more/Gemthane Arm.md",
-    "Artifacts, Relics and more/Enspelled Staff.md",
-    "Artifacts, Relics and more/Cloak of Billowing.md",
     "Meta/Elias",
     "Meta/Elias",
     "Attachments/Larkspur Bay.jpg",
