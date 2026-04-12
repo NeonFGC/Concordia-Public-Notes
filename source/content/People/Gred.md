@@ -1,1 +1,7 @@
+---
+tags:
+  - NPC
+---
 A poor, unwilling hostage taken by [[Quartztopher]]. He was born and raised in [[Larkspur Bay]] and works as a dock keeper. 
+
+He was lost in [[Helgrind]]

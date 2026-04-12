@@ -87,4 +87,4 @@ Once per turn when you hit a creature with a Monk weapon or an Unarmed Strike, y
 
 # Magic Items
 [[Reek's Resolve]]
-[[Boots of ElvenKind]]
+[[Boots of Elven Kind]]

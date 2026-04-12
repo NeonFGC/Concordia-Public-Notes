@@ -1,2 +1,3 @@
 - The main religion of the dwarves and smiths
 - View vows as sacred, worship [[The Silent - Korran, Forger of Chains|Korran]]
+- 

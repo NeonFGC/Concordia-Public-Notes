@@ -1,0 +1,1 @@
+The head of the house, [[Lord Aureth Solarith]] serves as a High Justiciar of [[The Order of the Sun]], equal parts statesman and inquisitor. His eldest son, [[Ser Eldric Solarith]], is celebrated across Pentara as the greatest paladin. He wields the reforged Dawnspear, and bears many blessings. 
