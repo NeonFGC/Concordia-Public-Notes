@@ -6,3 +6,4 @@ owner: "[[Brokk]]"
 _Wondrous item, Common_
 
 A metal arm built by [[Kazrak Gemthane|Kazrak]]. It gives +1 to unarmed strikes.
+
