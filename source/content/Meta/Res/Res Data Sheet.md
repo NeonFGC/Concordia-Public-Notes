@@ -106,6 +106,9 @@ If you do cast a Sorcerer spell with a spell slot before you finish a Long Rest,
 # Level 5
 ### Sorcerous Restoration
 When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can’t do so again until you finish a Long Rest.
+# Level 6
+### Bend Luck
+You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the d20 for a D20 Test, you can take a Reaction and spend 1 Sorcery Point to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the d20 roll.
 # Spells
 ### Cantrip. 
 [Gust](https://dnd5e.wikidot.com/spell:gust)
@@ -142,6 +145,10 @@ When you finish a Short Rest, you can regain expended Sorcery Points, but no mor
 [Fireball](http://dnd2024.wikidot.com/spell:fireball)
 
 [Melf's Minute Meteors](https://dnd5e.wikidot.com/spell:melfs-minute-meteors)
+
+THIRD LEVEL SPELL
 # Magic Items
 [[Ring of Spell Storing]]
-[[Moonblade]]
+
+[[Enspelled Staff]]
+

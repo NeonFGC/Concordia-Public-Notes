@@ -84,7 +84,21 @@ Whenever you hit a creature with an attack granted by your Flurry of Blows, you 
 You can attack twice instead of once whenever you take the Attack action on your turn.
 ### Stunning Strike
 Once per turn when you hit a creature with a Monk weapon or an Unarmed Strike, you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the Stunned condition until the start of your next turn. On a successful save, the target’s Speed is halved until the start of your next turn, and the next attack roll made against the target before then has Advantage.
+# Level 6
+### Empowered Strikes
+Whenever you deal damage with your Unarmed Strike, it can deal your choice of Force damage or its normal damage type.
+### Wholeness of Body
+You gain the ability to heal yourself. As a Bonus Action, you can roll your Martial Arts die. You regain a number of Hit Points equal to the number rolled plus your Wisdom modifier (minimum of 1 Hit Point regained).
+
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 # Magic Items
 [[Reek's Resolve]]
+
 [[Boots of Elven Kind]]
+
+[[Moonblade]]
+
+[[Ward Paint]]
+
+[[Wraps of Unarmed Power]]

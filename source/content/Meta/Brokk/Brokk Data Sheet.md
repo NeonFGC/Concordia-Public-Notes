@@ -77,6 +77,16 @@ Starting at character level 5, you can change your size to Large as a Bonus Acti
 You can attack twice instead of once whenever you take the Attack action on your turn.
 ### Fast Movement
 Your speed increases by 10 feet while you aren't wearing Heavy armor.
+# Level 6
+### Spirit Shield
+Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by 2d6.
 
+When you reach certain levels in this class, you can reduce the damage by more: by 3d6 at 10th level and by 4d6 at 14th level.
 # Magic Items
 [[Gemthane Arm]]
+
+[[Basilisk Greatsword]]
+
+[[Korran's Ring]]
+
+[[Unknown Rune]]

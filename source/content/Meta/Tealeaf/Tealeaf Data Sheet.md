@@ -96,6 +96,13 @@ If the tale requires a saving throw, the DC equals your spell save DC.
 You now regain all your expended uses of Bardic Inspiration when you finish a Short or Long Rest.
 
 In addition, you can expend a spell slot (no action required) to regain one expended use of Bardic Inspiration.
+# Level 6
+### Spirit Session
+Spirits provide you with supernatural insights. You can conduct an hour-long ritual channeling spirits (which can be done during a short or long rest) using your Spiritual Focus. You can conduct the ritual with a number of willing creatures equal to your proficiency bonus (including yourself). At the end of the ritual, you temporarily learn one spell of your choice from any class.
+
+The spell you choose must be of a level equal to the number of creatures that conducted the ritual or less, the spell must be of a level you can cast, and it must be in the school of divination or necromancy. The chosen spell counts as a bard spell for you but doesn't count against the number of bard spells you know.
+
+Once you perform the ritual, you can't do so again until you start a long rest, and you know the chosen spell until you start a long rest.
 
 # Spells
 ### Cantrip.
@@ -134,7 +141,18 @@ In addition, you can expend a spell slot (no action required) to regain one expe
 
 [Slow](http://dnd2024.wikidot.com/spell:slow)
 
+THIRD LEVEL SPELL
 # Magic Items
 [[Pindle's Cloak of Billowing]]
 
 [[Talking Doll]]
+
+[[Korran's Hammer]]
+
+[[Phantasmal Evocation Weapon - Projected Explosive Wrath]]
+
+[[Potion of Animal Friendship]]
+
+[[Staff of the Python]]
+
+[[Tentacle Rod]]

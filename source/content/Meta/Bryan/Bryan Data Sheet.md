@@ -94,6 +94,13 @@ You can call on the aid of an otherworldly steed.
 You always have the [Find Steed](http://dnd2024.wikidot.com/spell:find-steed) spell prepared.
 
 You can also cast the spell once without expending a spell slot, and you regain your ability to do so when you finish a Long Rest.
+# Level 6
+### Aura of Protection
+You radiate a protective, unseeable aura in a 10-foot Emanation that originates from you. The aura is inactive while you have the Incapacitated condition.
+
+You and your allies in the aura gain a bonus to saving throws equal to your Charisma modifier (minimum bonus of +1).
+
+If another Paladin is present, a creature can benefit from only one Aura of Protection at a time; the creature chooses which aura while in them.
 # Spells
 
 ### Cantrip.
@@ -127,3 +134,6 @@ You can also cast the spell once without expending a spell slot, and you regain 
 
  [Find Steed](http://dnd2024.wikidot.com/spell:find-steed) - Faithful Steed
 # Magic Items
+[[Brooch of Shielding]]
+
+[[Ishtar's Wrath]]

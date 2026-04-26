@@ -4,53 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "08a65cbe0316c157",
+        "id": "0eeb7d0779d97f71",
         "type": "tabs",
         "children": [
           {
-            "id": "2a6777ba5ffffcc3",
+            "id": "8b8d347d6c247770",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/15.5. The Story Continues.md",
+                "file": "Artifacts, Relics and more/Tentacle Rod.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15.5. The Story Continues"
+              "title": "Tentacle Rod"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "a7ba9b01b2511199",
+        "type": "tabs",
+        "children": [
           {
             "id": "98b7aa6c28cdd52e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/16. Return to Pentara.md",
+                "file": "Meta/Tealeaf/Tealeaf Data Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. Return to Pentara"
-            }
-          },
-          {
-            "id": "600ddcac768d3f31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Pindlewick Fizz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pindlewick Fizz"
+              "title": "Tealeaf Data Sheet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/16. Return to Pentara.md",
+                "file": "Meta/Tealeaf/Tealeaf Data Sheet.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 16. Return to Pentara"
+              "title": "Backlinks for Tealeaf Data Sheet"
             }
           },
           {
@@ -200,32 +191,32 @@
   },
   "active": "98b7aa6c28cdd52e",
   "lastOpenFiles": [
-    "People/Schwim.md",
-    "Session Notes/16. Return to Pentara.md",
-    "Organisations/Quartztopher Fan Club.md",
+    "Artifacts, Relics and more/Tentacle Rod.md",
+    "Meta/Tealeaf/Tealeaf Data Sheet.md",
+    "Artifacts, Relics and more/Talking Doll.md",
+    "Artifacts, Relics and more/Staff of the Python.md",
+    "Artifacts, Relics and more/Sending Stone.md",
+    "Artifacts, Relics and more/Ring of Spell Storing.md",
+    "Artifacts, Relics and more/Retractable Shield.md",
+    "Artifacts, Relics and more/Reek's Resolve.md",
+    "Artifacts, Relics and more/Potion of Animal Friendship.md",
     "Artifacts, Relics and more/Pindle's Cloak of Billowing.md",
-    "People/Pindlewick Fizz.md",
-    "index.md",
-    "Places/The Court of Miracles.md",
-    "Session Notes/14. A New Fighter Has Appeared!.md",
-    "Session Notes/15. A Cave of Horrors.md",
-    "Session Notes/15.5. The Story Continues.md",
     "Artifacts, Relics and more/Phantasmal Evocation Weapon - Projected Explosive Wrath.md",
-    "Session Notes/13. Ishtar's Strongest Solider.md",
-    "Session Notes/11. Downtime.md",
-    "Session Notes/7. The Fracture.md",
-    "Session Notes/10. Combat!.md",
-    "Session Notes/12. Into the Ruins.md",
-    "People/Maribel Thornwhistle.md",
-    "Meta/Res/Res Data Sheet.md",
-    "Meta/Res/Res.md",
-    "Untitled 1.md",
+    "Artifacts, Relics and more/Moonblade.md",
+    "Artifacts, Relics and more/Korran's Ring.md",
+    "Artifacts, Relics and more/Korran's Hammer.md",
+    "Artifacts, Relics and more/Ishtar's Wrath.md",
+    "Artifacts, Relics and more/Gladiator Net.md",
     "Artifacts, Relics and more/Gemthane Arm.md",
-    "Artifacts, Relics and more/Basilisk Greatsword.md",
-    "Meta/Res/Res Wild Magic Surge.md",
+    "Artifacts, Relics and more/Enspelled Staff.md",
+    "Artifacts, Relics and more/Brooch of Shielding.md",
     "Artifacts, Relics and more/Boots of Elven Kind.md",
-    "Meta/Bryan/Bryan.md",
-    "Misc/The Black Harvest.md",
+    "Artifacts, Relics and more/Basilisk Greatsword.md",
+    "Artifacts, Relics and more/Wraps of Unarmed Power.md",
+    "Meta/Res/Res Data Sheet.md",
+    "Artifacts, Relics and more/Ward Paint.md",
+    "Artifacts, Relics and more/Unknown Rune.md",
+    "Meta/Quartztopher/Quartztopher Data Sheet.md",
     "Meta/Elias",
     "Meta/Elias",
     "Attachments/Larkspur Bay.jpg",
