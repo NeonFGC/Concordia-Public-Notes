@@ -13,44 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/14. A New Fighter Has Appeared!.md",
+                "file": "Session Notes/15.5. The Story Continues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. A New Fighter Has Appeared!"
+              "title": "15.5. The Story Continues"
             }
           },
           {
-            "id": "305d8ec2efb13843",
+            "id": "98b7aa6c28cdd52e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Maribel Thornwhistle.md",
+                "file": "Session Notes/16. Return to Pentara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maribel Thornwhistle"
+              "title": "16. Return to Pentara"
             }
           },
           {
-            "id": "e619c9e0bbe690f8",
+            "id": "600ddcac768d3f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/13. Ishtar's Strongest Solider.md",
+                "file": "People/Pindlewick Fizz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. Ishtar's Strongest Solider"
+              "title": "Pindlewick Fizz"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/13. Ishtar's Strongest Solider.md",
+                "file": "Session Notes/16. Return to Pentara.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 13. Ishtar's Strongest Solider"
+              "title": "Backlinks for 16. Return to Pentara"
             }
           },
           {
@@ -184,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,34 +198,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e619c9e0bbe690f8",
+  "active": "98b7aa6c28cdd52e",
   "lastOpenFiles": [
+    "People/Schwim.md",
+    "Session Notes/16. Return to Pentara.md",
+    "Organisations/Quartztopher Fan Club.md",
+    "Artifacts, Relics and more/Pindle's Cloak of Billowing.md",
+    "People/Pindlewick Fizz.md",
+    "index.md",
+    "Places/The Court of Miracles.md",
     "Session Notes/14. A New Fighter Has Appeared!.md",
+    "Session Notes/15. A Cave of Horrors.md",
+    "Session Notes/15.5. The Story Continues.md",
+    "Artifacts, Relics and more/Phantasmal Evocation Weapon - Projected Explosive Wrath.md",
+    "Session Notes/13. Ishtar's Strongest Solider.md",
+    "Session Notes/11. Downtime.md",
+    "Session Notes/7. The Fracture.md",
+    "Session Notes/10. Combat!.md",
+    "Session Notes/12. Into the Ruins.md",
+    "People/Maribel Thornwhistle.md",
+    "Meta/Res/Res Data Sheet.md",
+    "Meta/Res/Res.md",
+    "Untitled 1.md",
     "Artifacts, Relics and more/Gemthane Arm.md",
     "Artifacts, Relics and more/Basilisk Greatsword.md",
     "Meta/Res/Res Wild Magic Surge.md",
     "Artifacts, Relics and more/Boots of Elven Kind.md",
     "Meta/Bryan/Bryan.md",
     "Misc/The Black Harvest.md",
-    "Session Notes/7.5. The Story so far.md",
-    "Session Notes/15.5. The Story Continues.md",
-    "Session Notes/11. Downtime.md",
-    "Session Notes/10. Combat!.md",
-    "Session Notes/9. The Fork in the Road.md",
-    "People/Orimis Vaeloras.md",
-    "Session Notes/8. A New Start.md",
-    "Misc/The Veil of Mercy.md",
-    "Veil of Mercy.md",
-    "Concordia.md",
-    "People/Reek Prime.md",
-    "Session Notes/7. The Fracture.md",
-    "Session Notes/15. A Cave of Horrors.md",
-    "People/William Marshall.md",
-    "People/Torvin Hearthome.md",
-    "People/Tobias Merren.md",
-    "People/Tessa.md",
-    "People/Seraphine.md",
-    "Session Notes/13. Ishtar's Strongest Solider.md",
     "Meta/Elias",
     "Meta/Elias",
     "Attachments/Larkspur Bay.jpg",

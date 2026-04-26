@@ -135,6 +135,6 @@ In addition, you can expend a spell slot (no action required) to regain one expe
 [Slow](http://dnd2024.wikidot.com/spell:slow)
 
 # Magic Items
-[[Cloak of Billowing]]
+[[Pindle's Cloak of Billowing]]
 
 [[Talking Doll]]
