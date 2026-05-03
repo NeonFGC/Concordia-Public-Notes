@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artifacts, Relics and more/Tentacle Rod.md",
+                "file": "Session Notes/16. Return to Pentara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tentacle Rod"
+              "title": "16. Return to Pentara"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Tealeaf/Tealeaf Data Sheet.md",
+                "file": "Session Notes/16. Return to Pentara.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tealeaf Data Sheet"
+              "title": "Backlinks for 16. Return to Pentara"
             }
           },
           {
@@ -189,8 +189,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "98b7aa6c28cdd52e",
+  "active": "8b8d347d6c247770",
   "lastOpenFiles": [
+    "People/Pindlewick Fizz.md",
+    "Session Notes/16. Return to Pentara.md",
     "Artifacts, Relics and more/Tentacle Rod.md",
     "Meta/Tealeaf/Tealeaf Data Sheet.md",
     "Artifacts, Relics and more/Talking Doll.md",
@@ -215,8 +217,6 @@
     "Artifacts, Relics and more/Wraps of Unarmed Power.md",
     "Meta/Res/Res Data Sheet.md",
     "Artifacts, Relics and more/Ward Paint.md",
-    "Artifacts, Relics and more/Unknown Rune.md",
-    "Meta/Quartztopher/Quartztopher Data Sheet.md",
     "Meta/Elias",
     "Meta/Elias",
     "Attachments/Larkspur Bay.jpg",
