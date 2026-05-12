@@ -1,0 +1,1 @@
+A tavern once owned an operated by [[The Silver Web]]. Its deed fell into the hand off [[Elias]].

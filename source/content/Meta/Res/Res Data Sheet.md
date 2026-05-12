@@ -89,7 +89,7 @@ Cost: 2 Sorcery Points
 When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a Bonus Action for this casting. You can’t modify a spell in this way if you’ve already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
 # Level 3
 ### Wild Magic Surge.
-Your spellcasting can unleash surges of untamed magic. Once per turn, you can roll 1d20 immediately after you cast a Sorcerer spell with a spell slot. If you roll a 20, roll on the Wild Magic Surge table to create a magical effect. 
+Your spellcasting can unleash surges of untamed magic. Once per turn, immediately after you cast a Sorcerer spell with a spell slot, you can roll on the Wild Magic Surge table to create a magical effect.
 
 If the magical effect is a spell, it is too wild to be affected by your Metamagic.
 ### Tides of Chaos.

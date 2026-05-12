@@ -89,4 +89,4 @@ When you reach certain levels in this class, you can reduce the damage by more: 
 
 [[Korran's Ring]]
 
-[[Unknown Rune]]
+[[Rune of Order]]

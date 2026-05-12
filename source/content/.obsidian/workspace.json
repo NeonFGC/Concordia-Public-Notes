@@ -11,37 +11,28 @@
             "id": "8b8d347d6c247770",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/16. Return to Pentara.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16. Return to Pentara"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
-          }
-        ]
-      },
-      {
-        "id": "a7ba9b01b2511199",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "98b7aa6c28cdd52e",
+            "id": "4833d726da871921",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Tealeaf/Tealeaf Data Sheet.md",
+                "file": "Session Notes/17. Confrontation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tealeaf Data Sheet"
+              "title": "17. Confrontation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/16. Return to Pentara.md",
+                "file": "Session Notes/17. Confrontation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 16. Return to Pentara"
+              "title": "Backlinks for 17. Confrontation"
             }
           },
           {
@@ -189,12 +180,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8b8d347d6c247770",
+  "active": "4833d726da871921",
   "lastOpenFiles": [
-    "People/Pindlewick Fizz.md",
+    "Places/Ishtar's Rest.md",
+    "Session Notes/17. Confrontation.md",
+    "Places/Smiling Bear Tavern.md",
+    "Artifacts, Relics and more/Feywild Shard.md",
     "Session Notes/16. Return to Pentara.md",
-    "Artifacts, Relics and more/Tentacle Rod.md",
+    "Artifacts, Relics and more/Blacksmiths Hammer.md",
+    "Artifacts, Relics and more/Korran's Ring.md",
+    "Artifacts, Relics and more/Rune of Order.md",
+    "Meta/Res/Res.md",
+    "Meta/Res/Res Data Sheet.md",
     "Meta/Tealeaf/Tealeaf Data Sheet.md",
+    "People/Pindlewick Fizz.md",
+    "Artifacts, Relics and more/Tentacle Rod.md",
     "Artifacts, Relics and more/Talking Doll.md",
     "Artifacts, Relics and more/Staff of the Python.md",
     "Artifacts, Relics and more/Sending Stone.md",
@@ -205,18 +205,9 @@
     "Artifacts, Relics and more/Pindle's Cloak of Billowing.md",
     "Artifacts, Relics and more/Phantasmal Evocation Weapon - Projected Explosive Wrath.md",
     "Artifacts, Relics and more/Moonblade.md",
-    "Artifacts, Relics and more/Korran's Ring.md",
-    "Artifacts, Relics and more/Korran's Hammer.md",
     "Artifacts, Relics and more/Ishtar's Wrath.md",
     "Artifacts, Relics and more/Gladiator Net.md",
     "Artifacts, Relics and more/Gemthane Arm.md",
-    "Artifacts, Relics and more/Enspelled Staff.md",
-    "Artifacts, Relics and more/Brooch of Shielding.md",
-    "Artifacts, Relics and more/Boots of Elven Kind.md",
-    "Artifacts, Relics and more/Basilisk Greatsword.md",
-    "Artifacts, Relics and more/Wraps of Unarmed Power.md",
-    "Meta/Res/Res Data Sheet.md",
-    "Artifacts, Relics and more/Ward Paint.md",
     "Meta/Elias",
     "Meta/Elias",
     "Attachments/Larkspur Bay.jpg",

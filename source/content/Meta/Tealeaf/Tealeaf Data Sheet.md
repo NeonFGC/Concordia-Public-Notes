@@ -147,7 +147,7 @@ THIRD LEVEL SPELL
 
 [[Talking Doll]]
 
-[[Korran's Hammer]]
+[[Blacksmiths Hammer]]
 
 [[Phantasmal Evocation Weapon - Projected Explosive Wrath]]
 

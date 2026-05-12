@@ -1,0 +1,1 @@
+Hidden beneath the fountain in [[Temple Heights]], the resting place of [[The Serene - Ishtar, Voice of Still Waters]].
