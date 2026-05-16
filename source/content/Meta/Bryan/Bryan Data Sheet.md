@@ -31,11 +31,7 @@ You've trained to deal particularly damaging strikes. Once per turn when you hit
 
 # Level 1
 ### Lay On Hands.
-Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a Long Rest. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level.
-
-As a Bonus Action, you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of Hit Points to that creature, up to the maximum amount remaining in the pool.
-
-You can also expend 5 Hit Points from the pool of healing power to remove the Poisoned condition from the creature; those points don't also restore Hit Points to the creature.
+You can no longer heal yourself or others at will. Once per turn, you may spend 5 points and either: Upon taking damage, use a reaction to reduce the damage taken by 1d6+charisma mod, or Add 1d6+ charisma mod damage to your divine smite.
 ### Spellcasting.
 You have learned to cast spells through prayer and meditation. See Chapter 7 for the rules on Spellcasting. The Information below details how you use those rules with Paladin spells, which appear in the [Paladin spell list](http://dnd2024.wikidot.com/paladin:spell-list) later in the class's description.
 
@@ -73,13 +69,12 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 
 **Divine Sense.** As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](http://dnd2024.wikidot.com/spell:hallow) spell.
 
-### Oath of Vengeance Spells
-The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Vengeance Spells table, you thereafter always have the listed spells prepared.
+### Oath of The Pail
+Ishtar is dead, but the mission of the Order of the Pail remains unchanged - to create a world where Ishtar's principles can thrive. Paladins of this oath are willing to make any compromises in order to further their ultimate goal, and the ends always justify the means.
+Due to Ishtar's death, you are no longer able to cast any spells other than Divine Smite.
 
-### Vow of Enmity
-When you take the Attack action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have Advantage on attack rolls against the creature for 1 minute or until you use this feature again.
-
-If the creature drops to 0 Hit Points before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required).
+### Vow of perserverance
+You can expend a channel divinity charge to utter a vow of perseverance. For 10 minutes, you gain advantage on saving throws against effects that would cause you to lose movement, actions or control (e.g. charm, fear, stunned, grappled, paralyzed)
 
 # Level 4
 ### Feat: Heavy Armor Master.
