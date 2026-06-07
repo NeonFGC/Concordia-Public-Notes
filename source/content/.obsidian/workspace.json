@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artifacts, Relics and more/Korran's Ring.md",
+                "file": "Session Notes/18. Reunion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Korran's Ring"
+              "title": "18. Reunion"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artifacts, Relics and more/Korran's Ring.md",
+                "file": "Session Notes/18. Reunion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Korran's Ring"
+              "title": "Backlinks for 18. Reunion"
             }
           },
           {
@@ -169,8 +169,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "4e489aa25dcc5cc2",
   "lastOpenFiles": [
+    "index.md",
+    "Session Notes/18. Reunion.md",
+    "People/Neressa Vhal.md",
+    "Session Notes/16. Return to Pentara.md",
+    "Artifacts, Relics and more/Korran's Ring.md",
     "People/William Marshall.md",
     "Artifacts, Relics and more/Tea Weird.md",
     "Meta/Bryan/Bryan Data Sheet.md",
@@ -178,9 +183,7 @@
     "Places/Ishtar's Rest.md",
     "Places/Smiling Bear Tavern.md",
     "Artifacts, Relics and more/Feywild Shard.md",
-    "Session Notes/16. Return to Pentara.md",
     "Artifacts, Relics and more/Blacksmiths Hammer.md",
-    "Artifacts, Relics and more/Korran's Ring.md",
     "Artifacts, Relics and more/Rune of Order.md",
     "Meta/Res/Res.md",
     "Meta/Res/Res Data Sheet.md",
@@ -194,9 +197,6 @@
     "Artifacts, Relics and more/Retractable Shield.md",
     "Artifacts, Relics and more/Reek's Resolve.md",
     "Artifacts, Relics and more/Potion of Animal Friendship.md",
-    "Artifacts, Relics and more/Pindle's Cloak of Billowing.md",
-    "Artifacts, Relics and more/Phantasmal Evocation Weapon - Projected Explosive Wrath.md",
-    "Artifacts, Relics and more/Moonblade.md",
     "Meta/Elias",
     "Meta/Elias",
     "Attachments/Larkspur Bay.jpg",
